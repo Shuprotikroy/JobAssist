@@ -92,6 +92,7 @@ CONTENT_STYLE = {
 }
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP,dbc.icons.BOOTSTRAP])
 content = html.Div(id="page-content",children=[] ,style=CONTENT_STYLE)
+server=app.server
 #components
 navbar = dbc.NavbarSimple(
     children=[
