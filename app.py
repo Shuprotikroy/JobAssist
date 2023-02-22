@@ -7,7 +7,6 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 from bs4 import BeautifulSoup
 import requests
-import matplotlib.pyplot as plt
 from statistics import mean
 #Data Scraping
 url="https://www.glassdoor.co.in/Job/jobs.htm?fromAge=1"
