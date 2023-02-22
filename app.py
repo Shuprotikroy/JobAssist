@@ -7,6 +7,7 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 from bs4 import BeautifulSoup
 import requests
+import matplotlib.pyplot as plt
 from statistics import mean
 #Data Scraping
 url="https://www.glassdoor.co.in/Job/jobs.htm?fromAge=1"
@@ -91,7 +92,6 @@ CONTENT_STYLE = {
 }
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP,dbc.icons.BOOTSTRAP])
 content = html.Div(id="page-content",children=[] ,style=CONTENT_STYLE)
-server=app.server
 #components
 navbar = dbc.NavbarSimple(
     children=[
