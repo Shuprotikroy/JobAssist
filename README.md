@@ -33,7 +33,10 @@ The website broadly consists of two sections i.e Home and Upskill:-
 - Calling API
 - Parsing JSON Response
 
-# Languages Used
+# Languages and Tools Used
 - DASH Core Components
 - DASH Bootstrap Components
 - Python
+
+# Output Images and Videos
+Refer to /Outputs Folder
