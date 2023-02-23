@@ -1,12 +1,18 @@
 # JobAssist
 
-#libraries used
+# Libraries used
 -pip install pandas
+
 -pip install numpy
+
 -pip install dash
+
 -pip install dash_bootstrap_components
+
 -pip install bs4
+
 -pip install requests
+
 -pip install statistics
 
 
