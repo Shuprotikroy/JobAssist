@@ -39,4 +39,4 @@ The website broadly consists of two sections i.e Home and Upskill:-
 - Python
 
 # Output Images and Videos
-Refer to /Outputs Folder
+Refer to /Outputs Folder or https://drive.google.com/drive/u/2/folders/1HzYksA5xtFwiP_-y7nWBmmmFT88A1PKE
