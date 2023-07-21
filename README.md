@@ -1,5 +1,7 @@
 ![Screenshot (111)](https://github.com/Shuprotikroy/JobAssist/assets/70252750/070d4067-f443-4136-af9b-84122919a563)
 
+## The About section on the top right side of this project consists of a linkedin post link wherein this project has been explained in further detail
+
 
 # JobAssist
 app.py contains the python code
