@@ -1,3 +1,6 @@
+![Screenshot (111)](https://github.com/Shuprotikroy/JobAssist/assets/70252750/070d4067-f443-4136-af9b-84122919a563)
+
+
 # JobAssist
 app.py contains the python code
 
